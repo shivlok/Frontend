@@ -1,0 +1,45 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "color": "White",
+      "image": "images/shoe1.jpg",
+      "label": "Published on May 10, 2018",
+      "price": "900",
+      "dimension": "",
+      "description": "Party wear",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "color": "Meharron",
+      "image": "images/shoe2.jpg",
+      "label": "Published on May 10, 2018",
+      "price": "1200",
+      "dimension": "",
+      "description": "Party wear",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "color": "Red",
+      "image": "images/shoe3.jpg",
+      "label": "Published on May 10, 2018",
+      "price": "999",
+      "dimension": "",
+      "description": "Formals",
+      "featured": false
+    },
+    {
+      "id": "4",
+      "color": "White",
+      "image": "images/shoe4.jpg",
+      "label": "Published on May 10, 2018",
+      "price": "900",
+      "dimension": "",
+      "description": "Party wear",
+      "featured": false
+    }
+  ],
+  "registerUser": []
+}
